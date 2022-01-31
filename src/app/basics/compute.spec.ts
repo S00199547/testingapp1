@@ -18,3 +18,4 @@ describe('compute',()=>{
         expect(result).toBe(2);
     })
 })
+
